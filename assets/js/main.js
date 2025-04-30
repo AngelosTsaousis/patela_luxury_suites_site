@@ -12,6 +12,12 @@ const translations = {
 		introText: "Enjoy elegance and breathtaking sea views from our luxury suites, in the serene beauty of Kantouni, Kalymnos.",
 		sendMessage: "Send Message",
 		reset: "Reset",
+		// Experience
+		climbingDescription:"Kalymnos is a climber’s paradise, world-renowned for its rugged limestone cliffs and an endless variety of routes suitable for both beginners and seasoned pros. With over 3,400 bolted climbing routes, the island offers breathtaking panoramas of the Aegean Sea from every height. Whether you're tackling a steep overhang or enjoying a sunset climb on a seaside crag, the combination of sport and scenery makes each ascent unforgettable. Professional climbing schools and gear rentals are available year-round, ensuring a safe and thrilling adventure.",
+		crystalClearWaters: "The island is surrounded by pristine, turquoise waters that invite you to dive in and explore. Swim in secluded coves, snorkel through vibrant underwater ecosystems, or dive into sea caves filled with marine life. Kalymnos also boasts several organized beaches like Masouri and Kantouni, perfect for families or those seeking comfort. If you're feeling adventurous, hop on a boat tour to nearby islets like Telendos or Pserimos for a private beach experience you’ll never forget.",
+		spongeDivingHeritage: "Kalymnos has a rich and unique history as the island of sponge divers. For centuries, its brave divers journeyed into the deep sea to collect natural sponges — a tradition that shaped the island's economy, culture, and identity. Visit the Sponge Factory Museum in Pothia to see authentic diving suits, tools, and hear incredible stories of this ancient craft. Many family-run sponge shops still sell high-quality natural sponges, making for a meaningful and sustainable souvenir.",
+		localCuisine: "Kalymnos is not just about stunning views and thrilling adventures; it’s also a culinary delight. The island's cuisine is a blend of traditional Greek flavors with a local twist. Enjoy fresh seafood caught daily, homemade pasta, and local cheeses. Don’t miss out on the island's famous 'Kavourmas', a unique dish made from local crab. Pair your meal with a glass of local wine or ouzo for an authentic dining experience. Many tavernas offer stunning sea views, making your meal even more special."
+
 	},
 	gr: {
 		suites: "Σουίτες",
@@ -21,6 +27,12 @@ const translations = {
 		introText: "Απολαύστε κομψότητα και μαγευτική θέα στη θάλασσα από τις πολυτελείς σουίτες μας, στην ήρεμη ομορφιά του Καντουνίου, Καλύμνου.",
 		sendMessage: "Αποστολή Μηνύματος",
 		reset: "Επαναφορά",
+		// Experience
+		climbingDescription:"Η Κάλυμνος είναι ένας παράδεισος για τους αναρριχητές, παγκοσμίως γνωστή για τους τραχείς ασβεστολιθικούς βράχους της και την ατελείωτη ποικιλία διαδρομών κατάλληλων τόσο για αρχάριους όσο και για έμπειρους επαγγελματίες. Με πάνω από 3.400 διαδρομές, το νησί προσφέρει εκπληκτική θέα στο Αιγαίο από κάθε ύψος. Είτε αντιμετωπίζετε μια απότομη κλίση είτε απολαμβάνετε μια αναρρίχηση στο ηλιοβασίλεμα, ο συνδυασμός αθλητισμού και τοπίου κάνει κάθε ανάβαση αξέχαστη. Επαγγελματικές σχολές αναρρίχησης και ενοικιάσεις εξοπλισμού είναι διαθέσιμες όλο το χρόνο, εξασφαλίζοντας μια ασφαλή και συναρπαστική περιπέτεια.",
+		crystalClearWaters: "Το νησί περιβάλλεται από κρυστάλλινα, τιρκουάζ νερά που σας προσκαλούν να βουτήξετε και να εξερευνήσετε. Κολυμπήστε σε απομονωμένους όρμους, κάντε snorkeling μέσα από ζωντανά υποβρύχια οικοσυστήματα ή βουτήξτε σε θαλάσσιες σπηλιές γεμάτες θαλάσσια ζωή. Η Κάλυμνος διαθέτει επίσης πολλές οργανωμένες παραλίες όπως η Μασούρη και το Καντούνι, ιδανικές για οικογένειες ή όσους αναζητούν άνεση. Αν νιώθετε περιπετειώδεις, κάντε μια εκδρομή με σκάφος σε κοντινές νησίδες όπως η Τέλενδος ή η Ψέριμος για μια ιδιωτική παραλία που δεν θα ξεχάσετε ποτέ.",
+		spongeDivingHeritage: "Η Κάλυμνος έχει μια πλούσια και μοναδική ιστορία ως το νησί των σφουγγαράδων. Για αιώνες, οι γενναίοι δύτες του συλλέγουν φυσικά σφουγγάρια από τη θάλασσα - μια παράδοση που διαμόρφωσε την οικονομία, τον πολιτισμό και την ταυτότητα του νησιού. Επισκεφθείτε το Μουσείο Σφουγγαριών στην Πόθια για να δείτε αυθεντικές στολές κατάδυσης, εργαλεία και να ακούσετε απίστευτες ιστορίες αυτής της αρχαίας τέχνης. Πολλά οικογενειακά καταστήματα σφουγγαριών πωλούν ακόμα υψηλής ποιότητας φυσικά σφουγγάρια, κάνοντάς τα ένα νόημα και βιώσιμο σουβενίρ.",
+		localCuisine: "Η Κάλυμνος δεν είναι μόνο για εκπληκτική θέα και συναρπαστικές περιπέτειες, αλλά και για γαστρονομικές απολαύσεις. Η κουζίνα του νησιού είναι ένα μείγμα παραδοσιακών ελληνικών γεύσεων με τοπική πινελιά. Απολαύστε φρέσκα θαλασσινά που αλιεύονται καθημερινά, σπιτικά ζυμαρικά και τοπικά τυριά. Μην χάσετε το διάσημο 'Καβούρμα' του νησιού, ένα μοναδικό πιάτο φτιαγμένο από τοπικό καβούρι. Συνοδέψτε το γεύμα σας με ένα ποτήρι τοπικό κρασί ή ούζο για μια αυθεντική γευστική εμπειρία. Πολλές ταβέρνες προσφέρουν εκπληκτική θέα στη θάλασσα, κάνοντάς το γεύμα σας ακόμα πιο ξεχωριστό."
+
 	},
 };
 
@@ -32,6 +44,11 @@ const switchLanguage = (lang) => {
 	document.querySelector("#header .content .inner p").textContent = translations[lang].introText;
 	document.querySelector("input[type='submit']").value = translations[lang].sendMessage;
 	document.querySelector("input[type='reset']").value = translations[lang].reset;
+	// Experience
+	document.querySelector("#climbing-description").textContent = translations[lang].climbingDescription;
+	document.querySelector("#crystal-clear-waters").textContent = translations[lang].crystalClearWaters;
+	document.querySelector("#sponge-diving-heritage").textContent = translations[lang].spongeDivingHeritage;
+	document.querySelector("#local-cuisine").textContent = translations[lang].localCuisine;
 };
 
 document.getElementById("btn-en").addEventListener("click", () => switchLanguage("en"));
