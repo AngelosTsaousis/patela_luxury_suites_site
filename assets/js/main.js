@@ -69,6 +69,14 @@ const switchLanguage = (lang) => {
 
 document.getElementById("btn-en").addEventListener("click", () => switchLanguage("en"));
 document.getElementById("btn-gr").addEventListener("click", () => switchLanguage("gr"));
+
+function showSuite(n) {
+	document.getElementById('suite1').style.display = n === 1 ? 'block' : 'none';
+	document.getElementById('suite2').style.display = n === 2 ? 'block' : 'none';
+	var btns = document.querySelectorAll('.suite-tabs .tab-btn');
+	btns.forEach((btn, i) => btn.classList.toggle('active', i === n - 1));
+}
+
 (function($) {
 
 	var	$window = $(window),
@@ -95,6 +103,8 @@ document.getElementById("btn-gr").addEventListener("click", () => switchLanguage
 				$body.removeClass('is-preload');
 			}, 100);
 		});
+
+
 
 	// Fix: Flexbox min-height bug on IE.
 		if (browser.name == 'ie') {
