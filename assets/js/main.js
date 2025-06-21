@@ -22,6 +22,25 @@ const translations = {
 		experience_3_description:"Kalymnos has a rich and unique history as the \"island of sponge divers.\" For centuries, its brave divers journeyed into the deep sea to collect natural sponges — a tradition that shaped the island's economy, culture, and identity. Visit the Sponge Factory Museum in Pothia to see authentic diving suits, tools, and hear incredible stories of this ancient craft. Many family-run sponge shops still sell high-quality natural sponges, making for a meaningful and sustainable souvenir.",
 		experience_4_Title:"Local Cuisine",
 		experience_4_description:"Kalymnos is not just about stunning views and thrilling adventures; it’s also a culinary delight. The island's cuisine is a blend of traditional Greek flavors with a local twist. Enjoy fresh seafood caught daily, homemade pasta, and local cheeses. Don’t miss out on the island's famous \"Kavourmas,\" a unique dish made from local crab. Pair your meal with a glass of local wine or ouzo for an authentic dining experience. Many tavernas offer stunning sea views, making your meal even more special.",
+
+		//Suites section
+		suite1_Title1: "Relaxed Island Living, Reimagined",
+		suite1_description1: "Step inside your light-filled 36 m² one-bedroom apartment, where comfort meets Mediterranean style. Featuring a queen bed, sofa bed, and thoughtful design details like natural wood accents and soft lighting, it’s a peaceful retreat after a day of exploring the island.",
+		suite1_Title2: "Cook, Dine, and Feel at Home",
+		suite1_description2: "Your private kitchen has everything you need—stovetop, oven, refrigerator, kettle, and a Nespresso-style coffee machine. Whether it’s breakfast before a swim or dinner with a view, enjoy the flexibility of dining in with a view of Patela just beyond the windows.",
+		suite1_Title3: "All You Need, Seamlessly Included",
+		suite1_description3: "From plush towels and bathrobes to air conditioning, fast Wi-Fi, and a flat-screen TV with streaming, every comfort is covered. The apartment also includes a private entrance, stylish patio seating, and calming coastal decor—ideal for couples, solo travelers, or small families.",
+		suite1_Title4: "Breathtaking Balcony Views – Kalymnos, Greece",
+		suite1_description4: "Wake up to sweeping views of the Aegean Sea and the striking Patela landscape, right from your private balcony. Located on the beautiful island of Kalymnos, this serene outdoor space is perfect for morning coffee or evening wine, surrounded by natural beauty and ocean breeze.",
+
+		suite2_Title1: "Modern Boho Elegance Meets Island Comfort",
+		suite2_description1:"Step into a beautifully elevated sleeping space designed with natural textures and airy tones. Bamboo elements, ambient lighting, and curated open shelving create a stylish yet tranquil atmosphere—perfect for unwinding after a sun-drenched day on Kalymnos.",
+		suite2_Title2: "Panoramic Seaside Balcony Moments",
+		suite2_description2:"Let your morning begin or your evening unwind on a spacious private balcony with stunning views of the turquoise Aegean Sea. With elegant outdoor seating and lush touches, it’s the ideal spot to sip, relax, and take in the gentle sea breeze and rocky coastal charm.",
+		suite2_Title3: "Your Cozy Lounge by the Sea",
+		suite2_description3:"Enjoy quiet moments in the cozy lounge area featuring soft neutral tones, handcrafted decor, and a rustic-chic coffee table. The calming palette and textures echo the laid-back vibe of island life, making it feel like home the moment you arrive.",
+		suite2_Title4: "A Thoughtfully Equipped Island Kitchen",
+		suite2_description4:"Cook and dine with ease in a bright, open kitchen complete with modern appliances, elegant hanging lights, and tasteful wooden finishes. Whether preparing local produce or enjoying a glass of wine at the counter, the space blends functionality with effortless style."
 	},
 	gr: {
 		suites: "Σουίτες",
@@ -41,6 +60,25 @@ const translations = {
 		experience_3_description:"Η Κάλυμνος έχει μια πλούσια και μοναδική ιστορία ως το \"νησί των σπογγαλιέων.\" Για αιώνες, οι γενναίοι δύτες της ταξίδευαν στα βαθιά νερά για να συλλέξουν φυσικά σφουγγάρια — μια παράδοση που διαμόρφωσε την οικονομία, τον πολιτισμό και την ταυτότητα του νησιού. Επισκεφθείτε το Μουσείο Σπογγαλιείας στην Πόθια για να δείτε αυθεντικές στολές κατάδυσης, εργαλεία και να ακούσετε απίστευτες ιστορίες αυτού του αρχαίου επαγγέλματος. Πολλά οικογενειακά καταστήματα σπογγαλιείας πωλούν ακόμα υψηλής ποιότητας φυσικά σφουγγάρια, κάνοντάς τα ένα σημαντικό και βιώσιμο σουβενίρ.",
 		experience_4_Title:"Τοπική Κουζίνα",
 		experience_4_description:"Η Κάλυμνος δεν είναι μόνο για εκπληκτική θέα και συναρπαστικές περιπέτειες, αλλά και για γαστρονομικές απολαύσεις. Η κουζίνα του νησιού είναι ένας συνδυασμός παραδοσιακών ελληνικών γεύσεων με τοπική πινελιά. Απολαύστε φρέσκα θαλασσινά που αλιεύονται καθημερινά, σπιτικά ζυμαρικά και τοπικά τυριά. Μην χάσετε το διάσημο \"Καβουρμά\" του νησιού, ένα μοναδικό πιάτο φτιαγμένο από τοπικό καβούρι. Συνοδέψτε το γεύμα σας με ένα ποτήρι τοπικό κρασί ή ούζο για μια αυθεντική γευστική εμπειρία. Πολλές ταβέρνες προσφέρουν εκπληκτική θέα στη θάλασσα, κάνοντάς το γεύμα σας ακόμα πιο ξεχωριστό.",
+
+		//Suites section
+		suite1_Title1: "Χαλαρή Νησιώτικη Ζωή",
+		suite1_description1: "Μπείτε στο φωτεινό σας διαμέρισμα ενός υπνοδωματίου 36 τ.μ., όπου η άνεση συναντά το μεσογειακό στυλ. Με ένα διπλό κρεβάτι, καναπέ-κρεβάτι και προσεγμένες λεπτομέρειες όπως φυσικό ξύλο και απαλός φωτισμός, προσφέρει ένα ήσυχο καταφύγιο μετά από μια μέρα εξερεύνησης του νησιού.",
+		suite1_Title2: "Μαγειρέψτε, Δειπνήστε και Νιώστε Σαν στο Σπίτι Σας",
+		suite1_description2: "Η ιδιωτική σας κουζίνα διαθέτει ό,τι χρειάζεστε—εστίες, φούρνο, ψυγείο, βραστήρα και μηχανή καφέ τύπου Nespresso. Είτε πρόκειται για πρωινό πριν τη βουτιά είτε για δείπνο με θέα, απολαύστε την ευελιξία του να δειπνείτε με φόντο την Πατέλα έξω από το παράθυρό σας.",
+		suite1_Title3: "Όλα Όσα Χρειάζεστε, Περιλαμβάνονται Αβίαστα",
+		suite1_description3: "Από απαλές πετσέτες και μπουρνούζια έως κλιματισμό, γρήγορο Wi-Fi και τηλεόραση επίπεδης οθόνης με streaming, κάθε άνεση είναι εξασφαλισμένη. Το διαμέρισμα διαθέτει επίσης ιδιωτική είσοδο, κομψό καθιστικό στη βεράντα και χαλαρωτική παραθαλάσσια διακόσμηση—ιδανικό για ζευγάρια, μεμονωμένους ταξιδιώτες ή μικρές οικογένειες.",
+		suite1_Title4: "Μπαλκόνι με Εκπληκτική Θέα – Κάλυμνος, Ελλάδα",
+		suite1_description4: "Ξυπνήστε με πανοραμική θέα στο Αιγαίο Πέλαγος και το εντυπωσιακό τοπίο της Πατέλας, απευθείας από το ιδιωτικό σας μπαλκόνι. Βρίσκεται στο όμορφο νησί της Καλύμνου και αυτός ο ήσυχος εξωτερικός χώρος είναι ιδανικός για τον πρωινό σας καφέ ή το κρασί το βράδυ, περιτριγυρισμένοι από φυσική ομορφιά και θαλάσσιο αεράκι.",
+
+		suite2_Title1: "Μοντέρνα Μποέ Αρμονία με Νησιώτικη Άνεση",
+		suite2_description1: "Μπείτε σε έναν υπερυψωμένο, κομψό χώρο ύπνου με φυσικές υφές και ανάλαφρους τόνους. Τα στοιχεία από μπαμπού, ο απαλός φωτισμός και τα επιλεγμένα ράφια συνθέτουν μια μοντέρνα αλλά ήρεμη ατμόσφαιρα—ιδανική για χαλάρωση μετά από μια ηλιόλουστη μέρα στην Κάλυμνο.",
+		suite2_Title2: "Πανοραμικές Στιγμές στο Μπαλκόνι με Θέα τη Θάλασσα",
+		suite2_description2: "Ξεκινήστε τη μέρα σας ή χαλαρώστε το βράδυ στο ευρύχωρο ιδιωτικό σας μπαλκόνι με εκπληκτική θέα στο γαλαζοπράσινο Αιγαίο. Με κομψό εξωτερικό καθιστικό και πινελιές πράσινου, είναι το ιδανικό σημείο για να απολαύσετε το αεράκι και τη νησιώτικη γοητεία του τοπίου.",
+		suite2_Title3: "Το Ζεστό σας Καθιστικό Δίπλα στη Θάλασσα",
+		suite2_description3: "Απολαύστε ήρεμες στιγμές στο άνετο καθιστικό με απαλούς ουδέτερους τόνους, χειροποίητη διακόσμηση και ένα ρουστίκ-κομψό τραπεζάκι. Η γήινη παλέτα και οι υφές αποπνέουν τη χαλαρότητα της νησιώτικης ζωής—κάνοντάς σας να νιώσετε σαν στο σπίτι σας από την πρώτη στιγμή.",
+		suite2_Title4: "Ένα Πλήρως Εξοπλισμένο Νησιώτικο Κουζινάκι",
+		suite2_description4: "Μαγειρέψτε και απολαύστε το φαγητό σας σε μια φωτεινή, ανοιχτή κουζίνα με μοντέρνες συσκευές, κομψά φωτιστικά και προσεγμένες ξύλινες λεπτομέρειες. Είτε ετοιμάζετε τοπικά προϊόντα είτε απολαμβάνετε ένα ποτήρι κρασί στον πάγκο, ο χώρος συνδυάζει λειτουργικότητα με ανεπιτήδευτο στυλ."
 	},
 };
 
@@ -51,7 +89,7 @@ const switchLanguage = (lang) => {
 	document.querySelector("nav ul li:nth-child(4) a").textContent = translations[lang].contact;
 	document.querySelector("#header .content .inner p").textContent = translations[lang].introText;
 
-	document.querySelector("#main #experience h2").textContent = translations[lang].experience_1_Title;
+	document.querySelector("#main #experience h2").textContent = translations[lang].experience;
 	//Get the first h3 from the experience section
 	document.querySelector("#main #experience h3:nth-of-type(1)").textContent = translations[lang].experience_1_Title;
 	document.querySelector("#main #experience p:nth-of-type(1)").textContent = translations[lang].experience_1_description;
@@ -61,6 +99,27 @@ const switchLanguage = (lang) => {
 	document.querySelector("#main #experience p:nth-of-type(5)").textContent = translations[lang].experience_3_description;
 	document.querySelector("#main #experience h3:nth-of-type(4)").textContent = translations[lang].experience_4_Title;
 	document.querySelector("#main #experience p:nth-of-type(7)").textContent = translations[lang].experience_4_description;
+
+	//Suite 1 Content
+	document.querySelector("#main #intro #suite1 h3:nth-of-type(1)").textContent = translations[lang].suite1_Title1;
+	document.querySelector("#main #intro #suite1 p:nth-of-type(1)").textContent = translations[lang].suite1_description1;
+	document.querySelector("#main #intro #suite1 h3:nth-of-type(2)").textContent = translations[lang].suite1_Title2;
+	document.querySelector("#main #intro #suite1 p:nth-of-type(2)").textContent = translations[lang].suite1_description2;
+	document.querySelector("#main #intro #suite1 h3:nth-of-type(3)").textContent = translations[lang].suite1_Title3;
+	document.querySelector("#main #intro #suite1 p:nth-of-type(3)").textContent = translations[lang].suite1_description3;
+	document.querySelector("#main #intro #suite1 h3:nth-of-type(4)").textContent = translations[lang].suite1_Title4;
+	document.querySelector("#main #intro #suite1 p:nth-of-type(4)").textContent = translations[lang].suite1_description4;
+
+	//Suite 2 Content
+	document.querySelector("#main #intro #suite2 h3:nth-of-type(1)").textContent = translations[lang].suite2_Title1;
+	document.querySelector("#main #intro #suite2 p:nth-of-type(1)").textContent = translations[lang].suite2_description1;
+	document.querySelector("#main #intro #suite2 h3:nth-of-type(2)").textContent = translations[lang].suite2_Title2;
+	document.querySelector("#main #intro #suite2 p:nth-of-type(2)").textContent = translations[lang].suite2_description2;
+	document.querySelector("#main #intro #suite2 h3:nth-of-type(3)").textContent = translations[lang].suite2_Title3;
+	document.querySelector("#main #intro #suite2 p:nth-of-type(3)").textContent = translations[lang].suite2_description3;
+	document.querySelector("#main #intro #suite2 h3:nth-of-type(4)").textContent = translations[lang].suite2_Title4;
+	document.querySelector("#main #intro #suite2 p:nth-of-type(4)").textContent = translations[lang].suite2_description4;
+
 
 
 	document.querySelector("input[type='submit']").value = translations[lang].sendMessage;
@@ -74,6 +133,14 @@ const switchLanguage = (lang) => {
 
 document.getElementById("btn-en").addEventListener("click", () => switchLanguage("en"));
 document.getElementById("btn-gr").addEventListener("click", () => switchLanguage("gr"));
+
+function showSuite(n) {
+	document.getElementById('suite1').style.display = n === 1 ? 'block' : 'none';
+	document.getElementById('suite2').style.display = n === 2 ? 'block' : 'none';
+	var btns = document.querySelectorAll('.suite-tabs .tab-btn');
+	btns.forEach((btn, i) => btn.classList.toggle('active', i === n - 1));
+}
+
 (function($) {
 
 	var	$window = $(window),
@@ -100,6 +167,8 @@ document.getElementById("btn-gr").addEventListener("click", () => switchLanguage
 				$body.removeClass('is-preload');
 			}, 100);
 		});
+
+
 
 	// Fix: Flexbox min-height bug on IE.
 		if (browser.name == 'ie') {

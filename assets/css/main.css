@@ -1699,3 +1699,15 @@ input, select, textarea {
 #language-switcher button:not(:last-child) {
 	border-right: 1px solid #fff;
 }
+
+.tab-btn.active, .tab-btn:hover {
+	background: #f56a6a;
+	color: #fff;
+}
+.suite-content {
+	animation: fadeIn 0.4s;
+}
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
