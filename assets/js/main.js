@@ -25,7 +25,7 @@ const translations = {
 
 		//Suites section
 		suite1_Title1: "Relaxed Island Living, Reimagined",
-		suite1_description1: "Step inside your light-filled 36 m² one-bedroom apartment, where comfort meets Mediterranean style. Featuring a queen bed, sofa bed, and thoughtful design details like natural wood accents and soft lighting, it’s a peaceful retreat after a day of exploring the island.",
+		suite1_description1: "Step inside your light-filled one-bedroom apartment, where comfort meets Mediterranean style. Featuring a queen bed and thoughtful design details like natural wood accents and soft lighting, it’s a peaceful retreat after a day of exploring the island.",
 		suite1_Title2: "Cook, Dine, and Feel at Home",
 		suite1_description2: "Your private kitchen has everything you need—stovetop, oven, refrigerator, kettle, and a Nespresso-style coffee machine. Whether it’s breakfast before a swim or dinner with a view, enjoy the flexibility of dining in with a view of Patela just beyond the windows.",
 		suite1_Title3: "All You Need, Seamlessly Included",
@@ -43,9 +43,9 @@ const translations = {
 		suite2_description4:"Cook and dine with ease in a bright, open kitchen complete with modern appliances, elegant hanging lights, and tasteful wooden finishes. Whether preparing local produce or enjoying a glass of wine at the counter, the space blends functionality with effortless style."
 	},
 	gr: {
-		suites: "Σουίτες",
-		experience: "Εμπειρία",
-		gallery: "Γκαλερί",
+		suites: "Δωμάτια",
+		experience: "Εμπειρίες",
+		gallery: "Γκαλλερί",
 		contact: "Επικοινωνια",
 		introText: "Απολαύστε την μαγευτική θέα στη θάλασσα από τις πολυτελείς σουίτες μας, στην ομορφιά του Καντουνίου, Καλύμνου.",
 		sendMessage: "Αποστολή Μηνύματος",
@@ -63,7 +63,7 @@ const translations = {
 
 		//Suites section
 		suite1_Title1: "Χαλαρή Νησιώτικη Ζωή",
-		suite1_description1: "Μπείτε στο φωτεινό σας διαμέρισμα ενός υπνοδωματίου 36 τ.μ., όπου η άνεση συναντά το μεσογειακό στυλ. Με ένα διπλό κρεβάτι, καναπέ-κρεβάτι και προσεγμένες λεπτομέρειες όπως φυσικό ξύλο και απαλός φωτισμός, προσφέρει ένα ήσυχο καταφύγιο μετά από μια μέρα εξερεύνησης του νησιού.",
+		suite1_description1: "Μπείτε στο φωτεινό σας διαμέρισμα ενός υπνοδωματίου, όπου η άνεση συναντά το μεσογειακό στυλ. Με ένα διπλό κρεβάτι και προσεγμένες λεπτομέρειες όπως φυσικό ξύλο και απαλός φωτισμός, προσφέρει ένα ήσυχο καταφύγιο μετά από μια μέρα εξερεύνησης του νησιού.",
 		suite1_Title2: "Μαγειρέψτε, Δειπνήστε και Νιώστε Σαν στο Σπίτι Σας",
 		suite1_description2: "Η ιδιωτική σας κουζίνα διαθέτει ό,τι χρειάζεστε—εστίες, φούρνο, ψυγείο, βραστήρα και μηχανή καφέ τύπου Nespresso. Είτε πρόκειται για πρωινό πριν τη βουτιά είτε για δείπνο με θέα, απολαύστε την ευελιξία του να δειπνείτε με φόντο την Πατέλα έξω από το παράθυρό σας.",
 		suite1_Title3: "Όλα Όσα Χρειάζεστε, Περιλαμβάνονται Αβίαστα",

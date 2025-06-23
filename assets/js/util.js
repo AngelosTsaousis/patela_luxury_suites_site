@@ -1,5 +1,29 @@
 (function($) {
 
+	const slides = document.querySelectorAll('.gallery-slide');
+	let currentSlide = 0;
+
+	function showSlide(index) {
+		slides.forEach((img, i) => img.style.display = i === index ? 'block' : 'none');
+	}
+	document.getElementById('gallery-prev').onclick = function() {
+		currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+		showSlide(currentSlide);
+	};
+	document.getElementById('gallery-next').onclick = function() {
+		currentSlide = (currentSlide + 1) % slides.length;
+		showSlide(currentSlide);
+	};
+// Touch/swipe support
+	let startX = 0;
+	const gallery = document.getElementById('gallery-slideshow');
+	gallery.addEventListener('touchstart', e => { startX = e.touches[0].clientX; });
+	gallery.addEventListener('touchend', e => {
+		let endX = e.changedTouches[0].clientX;
+		if (endX < startX - 30) document.getElementById('gallery-next').click();
+		if (endX > startX + 30) document.getElementById('gallery-prev').click();
+	});
+
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
 	 * @return {jQuery} jQuery object.
