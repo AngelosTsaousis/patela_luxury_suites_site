@@ -24,6 +24,13 @@
 		if (endX > startX + 30) document.getElementById('gallery-prev').click();
 	});
 
+	document.getElementById('bookBTN').addEventListener('click', function() {
+		gtag('event', 'booking_button_click', {
+			'event_category': 'engagement',
+			'event_label': 'Booking Button',
+		});
+	});
+
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
 	 * @return {jQuery} jQuery object.
